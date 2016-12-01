@@ -1,3 +1,9 @@
+---
+layout: page
+title: Wiki
+permalink: /Wiki/
+---
+
 Introducción a la versión en español del Manual de CryptoParty
 ==============================================================
 
