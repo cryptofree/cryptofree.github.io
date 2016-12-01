@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Un manifiesto cypherpunk
-permalink: /about/
+permalink: /Manifiesto/
 ---
 ### ERIC HUGHES, 1993.
 
